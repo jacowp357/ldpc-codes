@@ -1,2 +1,2 @@
 # ldpc-codes
-LDPC codes playground
+LDPC codes research
